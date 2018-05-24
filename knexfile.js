@@ -1,7 +1,7 @@
 module.exports = {
   development: {
     client: 'pg',
-    connection: 'postgres://localhost/mockoutdb'
+    connection: 'postgres://awray:doot@localhost:5433/api-db'
   },
 
   production: {
